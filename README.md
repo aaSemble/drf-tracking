@@ -103,7 +103,7 @@ $ mkdocs build
 ```
 
 
-[build-status-image]: https://secure.travis-ci.org/aschn/drf-tracking.png?branch=master
-[travis]: http://travis-ci.org/aschn/drf-tracking?branch=master
+[build-status-image]: https://secure.travis-ci.org/aaSemble/drf-tracking.png?branch=master
+[travis]: http://travis-ci.org/aaSemble/drf-tracking?branch=master
 [pypi-version]: https://img.shields.io/pypi/v/drf-tracking.svg
 [pypi]: https://pypi.python.org/pypi/drf-tracking
