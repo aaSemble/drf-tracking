@@ -75,6 +75,7 @@ setup(
     packages=get_packages(package),
     package_data=get_package_data(package),
     install_requires=[],
+    zip_safe=False,
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Environment :: Web Environment',
